@@ -1,4 +1,4 @@
-- The purpose of project is to learn about DataScience with IoT
+- <sub>The purpose of project is to learn about DataScience with IoT</sub>
 - This data is not real and the prediction is unbelivable
 - This project is used for precdict the temperature and humidity in next 3 days
 - Languges: Python
