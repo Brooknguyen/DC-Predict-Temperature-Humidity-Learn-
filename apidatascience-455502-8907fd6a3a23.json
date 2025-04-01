@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apidatascience-455502",
+  "private_key_id": "8907fd6a3a23c51e4f5d8bc4d3f2146bd1e85de3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1Hd5XNtWDcJx+\nbuIDPyIhUVrFIIVAjNr8D3GKIIfDm1Hb+gIV4OAcZtl2PQA1c/5lXMBb99OpzXtJ\n1dPIVzuh+5j2VUz5cDXS3y/0XSg14Za+nn31WmM16q8cznoVKS5S63ZQ2JLJzKZa\nU16aT0qEQFonAXH/x7tG43UjSf7+qIKPtshpIyO1sY42Kd2pXHf4J1UwnKzAFWxt\nA0g9PKFBPswf5CxEWcmdX+BYoP0v40HG6VTR13sSFCXQAY7KbFHlqllROzRltr5/\nu1Wy/7mdj3h67NukwY/2r4PCxTJY8ExBKvnBk3kTzk+mQ7ah2t+um2+tfDj+bm2Z\nnLANcF8tAgMBAAECggEAAdmtqzmfnBLyWPM75YBa/tpWlPBNhDMkiTCguN+gv55B\n+seRKISEqtSR8NhkldDz/rilx/aTI6SCsKPL3hpCTdJfS2hY4VPLrPkPBnq3Sl90\nVID3/QuJGd7xfSXiH+gyamcJWd6XKC79tnkbw5sB4Mhgbzr+D3jHGuC3z3R+fs/A\nAN///+QhDnMg5BmhExchvcJfHY1jmcg0qQUVny1Nk1YLQFTa2OrkOCzFT8PvLXME\nzpNrAExT567ejeoFze48d0RZikqFPSjfEy0TTPr/uIJaYsxluN7ymMG9MQnY+Y/m\nv2cxg8+9zOo++iGcY9TtjvZ2ZM/6XIOSCeI8O350CQKBgQDXjzFYpxiSFD/09SH+\ncBhAmLYIs9iOe3xwpuhtnQxZKGmsNIol3caIjDH8yTvLyV+HKR/kA3MUvYrL2ARt\nyhOJBLGNJwHeCzaG+1ZUxPUkZ80K334J5jrtjzKUvDVr9VuidPZVR5mSmcmLdVbT\nvx05DVRhmmrNTNCqQuq71VN2OQKBgQDXGHmyrb97GHKrYfBcZQm69R77bpitzWBf\nATB0/loPuJdKdVmZZljEjS/dMiXMNTPsFCTgoimWu0bzcE5UTPkStsI8YNxxPrNQ\nI+VhXK1W/rrqrfKkKGxuMVB992w9ZP7Rr/eQNr/tJk1fSJO23bLRBqs1TV0zu0jL\nGVBL6EEQlQKBgATSZS4wfrI11cBrA1mntEMtp1TGgR+ez4fNlAFvs+kCqGp7umNi\ndKB1UmDvN3E1jfd+CgKVuStLmiE5MdAq5wj3m+kmaDpJUezvDl1TEpC/6axGl5Et\nH0BVJbKCC0fg8y3NI/2AXoUS/5kpBMozyjmOfMa6J410HG7SlGGjQfyxAoGAJ6Wr\nSPQdx2LKQCzdUSqOkJd+DnpkSiUBDoH5nJcFosAzotXenhfvZMthdzQ3I1zrJSjR\nY1aAs/fxLA4XYhKOFpT5WIfCGl2kT7FOJpQen1p0ua02fGu3ENimLZHdsbNcBOqa\nh0qQNfZJbLbEA4D55O2FwV1xQIfU8xrHYjZ9R8ECgYEAnUXddoBLj0KLjWaZkRAT\n9T+K0ZhXol0pk7tR4UoLelmXExHhcZaK7/YTzHylK9PLuPJyf7vgPyS5bsFkuvKf\nCvvBt4C1Y/DMF4ZV8wEml0hKaK2QM0hWFAo/aDdI0rkEXpxrFyC78au1oAYaDbgs\nY6Qq8oZv+zLZ7E6ztcN1xD0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datascience@apidatascience-455502.iam.gserviceaccount.com",
+  "client_id": "116285578008290768965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datascience%40apidatascience-455502.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
